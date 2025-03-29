@@ -1,0 +1,17 @@
+{
+  "name": "tbank_contest_spring_2025",
+  "version": "1.0.0",
+  "description": "Добро пожаловать в репозиторий с заданиями контеста от **Т-Банка** для набора на стажировку по разработческим направлениям!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}
